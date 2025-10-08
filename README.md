@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeremoph
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python, pygame
+- 🌱 I’m currently learning python, evennia
 - 💞️ I’m looking to collaborate on ###
 - 📫 How to reach me ###
 
